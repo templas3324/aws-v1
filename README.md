@@ -2,6 +2,7 @@
 - devtools
 - springweb
 - lombok
+- thymeleaf
 
 ### 배포 위치 EC2
 
